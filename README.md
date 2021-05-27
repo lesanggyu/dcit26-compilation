@@ -10,6 +10,6 @@ A compilation of Read Native examples for the course of DCIT26- Application Deve
 
 ## Members
 * Abayon, Lesa Mae A.
-* Loresco, Lotilou Grace
-* Pedrajeta, Evander
-* Ramones, Hernz
+* Loresco, Lotilou Grace B.
+* Pedrajeta, Evander Q.
+* Ramones, Hernz N.
